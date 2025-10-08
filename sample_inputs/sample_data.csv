@@ -1,0 +1,21 @@
+member_id,first_name,last_name,dob,gender,phone,email,zip5,plan_id
+1001,John,Doe,1980-05-15,M,555-123-4567,john.doe@email.com,94105,PLAN_A
+1002,Jane,Smith,1975-12-20,F,555-987-6543,jane.smith@email.com,94107,PLAN_B
+1003,Bob,Johnson,1990-08-30,M,555-456-7890,bob.j@email.com,94102,PLAN_A
+1004,Alice,Brown,1985-03-10,F,555-321-0987,,94105,PLAN_C
+1005,Charlie,Wilson,1995-11-25,M,555-765-4321,charlie.w@email.com,94103,PLAN_B
+1006,Diana,Prince,1988-07-04,F,(415) 555-0199,diana.prince@email.com,94117,PLAN_A
+1007,,Miller,1972-09-18,M,4155550123,,94109,PLAN_D
+1008,Samuel,Jackson,1992-02-28,M,555-111-2222,samuel.jackson@test.com,9410,PLAN_B
+1009,Emily,Davis,12/25/1983,F,555-333-4444,emily.davis@email.com,94108,PLAN_A
+1010,Michael,Chen,1998-06-12,M,5551234567,michael.chen@email.com,94105,PLAN_C
+1011,Sarah,Wilson,1979-04-05,F,555-999-8888,sarah.wilson@email.com,9410A,PLAN_B
+1012,Robert,Taylor,1982-11-30,X,555-777-6666,robert.taylor@email.com,94104,PLAN_A
+1013,Lisa,Garcia,1993-08-22,F,555-222-3333,lisa.garcia@email.com,94106,PLAN_D
+1014,David,Martinez,1965-01-07,M,555-888-9999,david.martinez@email.com,94110,PLAN_B
+1015,Amanda,Harris,1997-03-19,F,555-444-5555,amanda.harris@email.com,94111,PLAN_A
+1016,Kevin,Clark,1977-10-14,M,555-666-7777,kevin.clark@email.com,94118,PLAN_C
+1017,Jennifer,Allen,1986-12-08,F,555-000-1111,jennifer.allen@email.com,94121,PLAN_B
+1018,Brian,Young,1991-05-03,M,555-222-4444,brian.young@email.com,94123,PLAN_A
+1019,Michelle,King,1984-09-26,F,555-333-5555,michelle.king@email.com,94115,PLAN_D
+1020,Christopher,Scott,1974-07-17,M,555-777-8888,christopher.scott@email.com,94133,PLAN_B
